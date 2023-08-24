@@ -1,7 +1,7 @@
 {
   "name": "@akilamihirangadev/cloud-kit",
-  "version": "1.0.2",
-  "main": "dist/index.js",
+  "version": "1.0.3",
+  "main": "src/index.ts",
   "description": "microservice shared package",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@akilamihirangadev"
@@ -10,8 +10,7 @@
     "dist"
   ],
   "scripts": {
-    "build": "rimraf dist && tsc",
-    "prepublish": "npm run build"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
