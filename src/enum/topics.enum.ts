@@ -1,0 +1,17 @@
+export enum KafkaTopic {
+    SAMPLE_CREATED = 'sample-created',
+    PERSON_CREATING = 'person-creating',
+    PERSON_UPDATING = 'person-updating',
+    PERSON_CREATED = 'person-created',
+    PERSON_CREATED_REPLY = 'person-created.reply',
+    PERSON_GET = 'person-get',
+    PERSON_DELETING = 'person-deleting',
+    PERSON_DELETED = 'person-deleted',
+    LOCATION_CREATED = 'location-created',
+    LOCATION_CREATING = 'location-creating',
+    LOCATION_UPDATING = "location-updating",
+    LOCATION_UPDATED = "location-updated",
+    LOCATION_DELETING = "location-deleteing",
+    LOCATION_DELETED = "location-deleted",
+    LOCATION_GET = 'location-get',
+}
