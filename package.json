@@ -1,16 +1,13 @@
 {
   "name": "@akilamihirangadev/cloud-kit",
-  "version": "1.0.3",
-  "main": "src/index.ts",
+  "version": "1.0.4",
   "description": "microservice shared package",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@akilamihirangadev"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akilamihirangadev/cloud-kit.git"
   },
-  "files": [
-    "dist"
-  ],
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/akilamihirangadev"
   },
   "author": "",
   "license": "ISC",
