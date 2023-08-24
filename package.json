@@ -1,7 +1,7 @@
 {
   "name": "@akilamihirangadev/cloud-kit",
-  "version": "1.0.5",
-  "description": "microservice shared package",
+  "version": "1.0.6",
+  "description": "cloud-kit package",
   "repository": {
     "type": "git",
     "url": "https://github.com/akilamihirangadev/cloud-kit.git"
